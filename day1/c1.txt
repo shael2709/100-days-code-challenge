@@ -1,2 +1,7 @@
+
+
 write a program to print "HELLO WORLD" in python.
 write a program to draw a shape.
+Write a program to print a string in reverse order without using any string functions.
+Write a program to calculate factorial without recursion
+Write a recursive program to calculate factorial of a given number.
