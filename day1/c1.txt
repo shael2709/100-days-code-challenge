@@ -1,1 +1,2 @@
 write a program to print "HELLO WORLD" in python.
+write a program to draw a shape.
