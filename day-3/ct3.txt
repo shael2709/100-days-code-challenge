@@ -9,3 +9,5 @@ Pulse 1 => 2 KG
 Pulse 2 => 2 KG
 Pulse 3 =>2 KG
 © 2018 GitHub, Inc.
+
+3.Make a Simple Calculator
