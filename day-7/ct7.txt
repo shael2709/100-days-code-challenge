@@ -1,1 +1,2 @@
 progarm to encrypt the text 
+program for password generator
